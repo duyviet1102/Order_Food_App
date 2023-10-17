@@ -11,4 +11,4 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-}
+}// toi hat cho mau xanh mai xanh cho 1 nguoi la
